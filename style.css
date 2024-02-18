@@ -1,0 +1,28 @@
+ul{
+    list-style-type: circle;
+}
+.dicha{
+    width: 200px;
+    height: 200px;
+
+}
+.dicon{
+    width: 100px;
+    height: 100px;
+    background: yellowgreen;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    bottom: 20px;
+    z-index: 2;
+}
+.dicon2{
+    width: 100px;
+    height: 100px;
+    background:pink;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    bottom: 20px;
+    z-index: 3;
+}
